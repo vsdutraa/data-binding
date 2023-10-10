@@ -8,4 +8,4 @@ Este aplicativo Angular serve como um exemplo prático de conceitos-chave que fo
 * Luana Revoredo Braz de Souza - 01555750
 * Luiz Felipe de Sousa Sá - 01532557
 * Pedro São Paulo da Silva Santos - 01503728
-* Pedro Braz de Oliveira Vian - 01535206
+* Pedro Braz de Oliveira Viana - 01535206
